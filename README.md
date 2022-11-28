@@ -1,0 +1,1 @@
+# Vaja1_Nucleo_ADC_pretvorba
