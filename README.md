@@ -10,3 +10,4 @@ e) 4 vhodni kanali.
 f) ADC3_IN1 in pin PC0.
 
 i) 16 bit (0 do 65535) 12 bit (0 do 4095) 10 bit (0 do 1023) 6 bit (0 do 63).
+Delovalo je brez kakršnihkoli napak.
